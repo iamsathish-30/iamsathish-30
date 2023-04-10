@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there 👋 , I'm Sathish
 
-<!--
-**iamsathish-30/iamsathish-30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
+<br/>
 
-Here are some ideas to get you started:
+» 🔭 I’m currently pursuing my **B.Tech** degree <br />
+» 🌱 I’m currently learning **Web development** <br />
+» 📈️ Intent of 2023 → Need to upskill and become a well proficient full stack developer <br />
+» 🛠️ I'm interested in learning new technologies<br />
+» 📫 How to reach me:🔗https://www.linkedin.com/in/sathish-s-3763a621a/ <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+#### Connect with me
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Twitter)](https://twitter.com/Sathish73324058)<br/>
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sathish-s-3763a621a/)
+
+<br/>
+
+### Language and tools🛠️
+
+→ HTML<br/>
+→ CSS<br/>
+→ Java Script<br/>
+→ SQL<br/>
+→ MongoDB<br/>
+→ Linux<br/>
+→ Java<br/>
+→ Git
